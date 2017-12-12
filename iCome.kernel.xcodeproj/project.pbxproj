@@ -433,8 +433,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = HXA3E8963G;
 				INFOPLIST_FILE = iCome.kernel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.enn.iCome-kernel.iCome-kernel";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.enn.iCome-kernel";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -447,8 +448,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = HXA3E8963G;
 				INFOPLIST_FILE = iCome.kernel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.enn.iCome-kernel.iCome-kernel";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.enn.iCome-kernel";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
