@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     _test = @"测试提交git";
+    _test  = @"dierciceshi";
 }
 
 
